@@ -18,6 +18,7 @@ public class CameraDevice : MonoBehaviour
         {
             backCam.Play();
         }
+
     }
 
     // Update is called once per frame
